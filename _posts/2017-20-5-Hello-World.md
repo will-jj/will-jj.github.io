@@ -3,7 +3,7 @@ layout: post
 title: The page is alive!
 ---
 
-Next I can update your site!
+Next I can update my site!
 
 <> (![_config.yml]({{ site.baseurl }}/images/config.png))
 
