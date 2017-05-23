@@ -1,0 +1,11 @@
+# Projects
+# Strava Weather
+- project: Strava Weather (permanent name pending)
+  role: Founder & Primary Developer
+  duration: 2017 &mdash; Present
+  description: A personal project allowing users registered with strava to select a course from their profile, set a ride start time and to recieve weather data for the estimated duration of their ride. The source code can be found <a href="https://github.com/will-jj/Docker-FlaskCeleryRabbitRedis">here</a>.  It is constructed utilising skills in the following software enviroments:<ul class="resume-item-list"><li>Docker</li><li>Python</li><li>Flask</li><li>Angular</li></ul>
+#Springfield Donut Eater's User Group
+- project: Final Year Honours Project
+  role:
+  duration: Sep, 2014 &mdash; May, 2015
+  description: Performing NDT on carbon composite aerospace components with an eddy current/capactive probe mounted onto a Kuka K5 robot.  The path taken by the robot was generated from a model created in Rhino 3D modelling software.  Work completed during this project has been published in Part B composites journal and can be accessed <a href="http://dx.doi.org/10.1016/j.compositesb.2017.01.016">here</a>.

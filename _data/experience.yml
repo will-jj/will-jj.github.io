@@ -1,0 +1,19 @@
+# Jobs
+# Strathclyde
+- company: University of Strathclyde/Inspectahire
+  position: Research Engineer
+  duration: Oct, 2015 &mdash; Present
+#  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+
+
+# Allied Bakeries
+- company: Allied Bakeries
+  position: Engineering Intern
+  duration:   Jun, 2014  &mdash; Aug, 2014
+  summary: Summer Internship at Allied Bakeries West Brom <ul class="resume-item-list"><li>Populating factory SCADA control system with plant images</li><li>Creation of training manuals for routing operations required for PLC and HMI maintence</li><li>Involvement in scheduled maintance of plant systems</li></ul>
+
+#ACA
+- company: ACAUK
+  position: JLR Solihull, Student Placement
+  duration: Aug, 2012  &mdash; Aug, 2012
+  summary: Assisting in the commisioning of the Range Rover Sport production line at JLR Solihull <ul class="resume-item-list"><li>PLC Programming</li><li>IO Checking</li><li>Wiring of bus network, sensors and valve banks</li></ul>

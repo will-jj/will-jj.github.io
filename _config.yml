@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: will-jj/
   instagram:
-  linkedin:
+  linkedin: william-jackson-a1b632a8/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: #
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: jacksondev.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -84,3 +84,47 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Resume settings
+resume_avatar:                  false
+resume_name:                    "William Jackson"
+resume_title:                   "Research Engineer"
+#resume_contact_email:
+#  "homerjsimpson@youremailaddress.com"
+#resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+#resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_intro: "<p>Currently completing an Engineering Doctorate with the Research Centre of Non Destructive Evaluation, research fouses  on 3D visualisation of inspection data captured from aerial inspection platforms, robotic crawlers, subsea vehicles and pipe inspection systems.<p>"
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+# resume_looking_for_work:        "no"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  # resume_github_url:            "https://github.com/jglovier/resume-template"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "http://joelglovier.com"
+  resume_print_social_links:      false
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
