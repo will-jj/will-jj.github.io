@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The page is alive!
+title: The page is functional
 ---
 
-Next I can update my site!
+Expect posts in the future...
 
 [//]: # (![_config.yml]({{ site.baseurl }}/images/config.png))
 
