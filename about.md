@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about me to be completed.
+See CV for information 
 
 ### More Information
 
-Other information about me also to be completed.
+Section to be completed
 
 ### Contact me
 
