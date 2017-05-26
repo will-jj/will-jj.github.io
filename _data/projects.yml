@@ -3,7 +3,7 @@
 - project: Strava Weather (permanent name pending)
   role: Founder & Primary Developer
   duration: 2017 &mdash; Present
-  description: A personal project allowing users registered with Strava to select a course from their profile, set a ride start time and to recieve weather data for the estimated duration of their ride. The source code can be found <a href="https://github.com/will-jj/Docker-FlaskCeleryRabbitRedis">here</a>.  It is constructed utilising skills in the following software enviroments:<ul class="resume-item-list"><li>Docker</li><li>Python</li><li>Flask</li><li>Angular</li></ul>
+  description: A personal project allowing users registered with Strava to select a course from their profile, set a ride start time and to recieve weather data for the estimated duration of their ride. The source code can be found <a href="https://github.com/will-jj/Docker-FlaskCeleryRabbitRedis">here</a>.  It is constructed utilising skills in the following software enviroments:<ul class="resume-item-list"><li>Docker</li><li>Python</li><li>Flask</li><li>AngularJS</li></ul>
 #Springfield Donut Eater's User Group
 - project: Final Year Honours Project
   role:
