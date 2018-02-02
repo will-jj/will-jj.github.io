@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The page is functional
+title: The page is now functioning correctly
 ---
 
-Expect posts in the future...
+Expect more insightful posts in the future...
 
 [//]: # (![_config.yml]({{ site.baseurl }}/images/config.png))
 
